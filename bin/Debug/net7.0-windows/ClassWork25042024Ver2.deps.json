@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ClassWork25042024Ver2/1.0.0": {
+        "runtime": {
+          "ClassWork25042024Ver2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassWork25042024Ver2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
